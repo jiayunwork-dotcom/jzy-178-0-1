@@ -1,0 +1,3 @@
+policy,first_alarm_epoch,alarm_count,false_alarm_count,availability
+snapshot,60,9,8,0.820000
+persistent,203,1,0,0.833333

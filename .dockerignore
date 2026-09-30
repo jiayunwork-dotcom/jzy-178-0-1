@@ -1,0 +1,8 @@
+.git
+.gitignore
+*.test
+*.out
+data/
+tmp/
+Dockerfile
+README.md
